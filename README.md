@@ -4,6 +4,8 @@
 <a href="https://adnan-bhaldar.github.io/ComFi"><strong>Live Demo</strong></a>
 
 ![preview img](/preview.png) 
+![preview img](/preview1.png) 
+![preview img](/preview2.png) 
 </div>
 
 ### Responsive Furniture Website
